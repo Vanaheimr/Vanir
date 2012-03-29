@@ -1,0 +1,13 @@
+*.pidb
+*.VisualState.xml
+*.suo
+*.csproj.user
+*.vsp
+
+
+/TestApplication1/bin
+/TestApplication1/obj
+/Vanir/bin
+/Vanir/obj
+/VanirTests/bin
+/VanirTests/obj

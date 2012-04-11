@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Vanir")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Germanic gods associated with fertility, wisdom and the ability to see the future.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("ahzf.de")]
 [assembly: AssemblyProduct("Vanir")]
-[assembly: AssemblyCopyright("Copyright © Achim Friedland 2010-2012")]
+[assembly: AssemblyCopyright("Copyright © Achim 'ahzf' Friedland 2010-2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
